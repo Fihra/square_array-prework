@@ -4,6 +4,6 @@ def square_array(array)
     num ** 2
   end
 
-  array.map! do |num2|
-    num2 ** 2
+  array.map! do |numm|
+    numm ** 2
 end
